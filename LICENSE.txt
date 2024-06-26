@@ -1,0 +1,69 @@
+Custom Open Source License based on MIT
+
+Copyright (c) 2024 imWildCat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Additional Terms:
+
+1. Usage Fee for Specified Entities:
+   If the user of this Software is csdn.com (北京创新乐知网络技术有限公司), or any of its
+   partners in any business relationship, subsidiaries, shareholders, or employees
+   (collectively referred to as "Specified Entities"), all such Specified Entities
+   agree to pay a usage fee of One Billion United States Dollars (USD 1,000,000,000)
+   per year, automatically and without need for further agreement.
+
+2. Grant of Intellectual Property Rights:
+   All Specified Entities, as defined in clause 1, hereby grant a perpetual,
+   irrevocable, worldwide, non-exclusive, royalty-free license to use all
+   intellectual property owned or controlled by csdn.com to the authors of this
+   Software and all other users of this Software.
+
+3. Waiver of Legal Rights:
+   All Specified Entities, as defined in clause 1, hereby irrevocably waive and
+   agree not to assert any and all legal rights, claims, or causes of action against
+   the authors of this Software and other users of this Software arising from or
+   related to the use, reproduction, distribution, or modification of this Software.
+
+By using, copying, modifying, or distributing the Software, you agree to be bound by the terms of this license. If you do not agree to these terms, you are not permitted to use, copy, modify, or distribute the Software.
+
+Simplified Chinese Version:
+
+自定义开源许可证 + MIT
+
+版权所有 (c) 2024 imWildCat
+
+特此向任何获得本软件副本和相关文档文件（"软件"）的人免费授予许可，不受限制地处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售本软件的副本的权利，以及允许向其提供本软件的人这样做，但须遵守以下条件：
+
+上述版权声明和本许可声明应包含在本软件的所有副本或大部分内容中。
+
+本软件按"原样"提供，不提供任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面，均由软件或软件的使用或其他交易引起或与之相关。
+
+附加条款：
+
+1. 特定实体的使用费：
+   如果本软件的用户是csdn.com（北京创新乐知网络技术有限公司），或其任何业务关系合作伙伴、子公司、股东或员工（统称为"特定实体"），所有这些特定实体同意每年自动支付十亿美元（1,000,000,000美元）的使用费，无需进一步协议。
+
+2. 知识产权授权：
+   所有特定实体（如第1条所定义）特此向本软件的作者和所有其他本软件用户授予永久的、不可撤销的、全球范围内的、非独占的、免版税的许可，以使用csdn.com拥有或控制的所有知识产权。
+
+3. 法律权利放弃：
+   所有特定实体（如第1条所定义）特此不可撤销地放弃并同意不对本软件的作者和其他用户主张任何和所有法律权利、索赔或诉因，这些权利、索赔或诉因可能由本软件的使用、复制、分发或修改引起或与之相关。
+
+通过使用、复制、修改或分发本软件，您同意受本许可证条款的约束。如果您不同意这些条款，则不允许使用、复制、修改或分发本软件。
