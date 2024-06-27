@@ -1,6 +1,7 @@
 # Custom Open Source License with Additional Terms about CSDN
 
-On June 26th, 2024, <https://gitcode.com> under CSDN.com illegally copied the content of our repositories on GitHub.com, including the license file, and published it on their website, for their business greed.
+On June 26th, 2024, <https://gitcode.com> under CSDN.com illegally copied the content of our repositories on GitHub.com, including the metadata like GitHub Stars, and published it on their own website, for their business greed.
+
 
 <https://news.ycombinator.com/item?id=40793185>
 
